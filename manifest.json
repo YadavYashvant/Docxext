@@ -7,13 +7,13 @@
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "archlogo.jpg",
-        "48": "archlogo.jpg",
-        "128": "archlogo.jpg"
+        "16": "icon.jpg",
+        "48": "icon.jpg",
+        "128": "icon.jpg"
       }
     },
     "icons": {
-      "48": "archlogo.jpg"
+      "48": "icon.jpg"
     },
     "web_accessible_resources": ["viewer.html", "jszip.js"]
   }
