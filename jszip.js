@@ -1,3 +1,7 @@
+/*
+This file contains jszip implementation.
+*/
+
 /*!
 
 JSZip v3.5.0 - A JavaScript class for generating and reading zip files
